@@ -103,7 +103,7 @@ def capture_every_second(
 
 
 if __name__ == "__main__":
-    YOUTUBE_URL = "https://www.youtube.com/watch?v=cxv97yDb-4c"  # EN: example YouTube URL
+    YOUTUBE_URL = "url here"  # EN: example YouTube URL
                                                                   # KR: 예시 유튜브 링크
     # e.g. capture from 948s through 1110s:
     capture_every_second(
