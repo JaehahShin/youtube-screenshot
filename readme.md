@@ -20,4 +20,4 @@
 ```bash
 pip install opencv-python pafy youtube_dl
 # 또는, yt-dlp 사용 시
-pip install opencv-python pafy-yt-dlp yt-dlp
+pip install opencv-python pafy yt-dlp
